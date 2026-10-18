@@ -24,10 +24,9 @@
 <br/>
 
 <img
-  src="https://komarev.com/ghpvc/?username=mdAbdullahAnas&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+  src="https://api.visitorbadge.io/api/visitors?path=mdAbdullahAnas&label=Profile%20Views&countColor=%230e75b6&style=for-the-badge"
   alt="Profile Views"
 />
-
 </div>
 
 ---
